@@ -44,9 +44,13 @@ Date and time data from the orders table allow managers to assess peak hours and
 ### - Marketing Insights: 
 Data analysis can also support targeted marketing campaigns, like promotions on specific types of pizzas that are popular or on days when sales are typically lower.
 
+----
+
 ## 📖 Conclusion:
 
 This SQL project not only serves as a robust data management system but also as a strategic tool for business intelligence. By maintaining comprehensive data on every aspect of the store's operations, the database allows store managers to make precise adjustments to improve both customer experience and profitability. When presented on a blog, this project can provide practical insights into how structured SQL queries can be used to harness data for real business applications, making it an excellent resource for aspiring data analysts and business owners alike.
+
+----
 
 ## ☕ Stay Connected
 
