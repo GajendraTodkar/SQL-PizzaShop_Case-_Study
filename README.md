@@ -27,6 +27,8 @@ This SQL project revolves around a database schema designed to manage and analyz
    **- category:** Categorizes the pizza (e.g., Vegetarian, Non-Vegetarian).
    **- ingredients:** Lists the ingredients used in the pizza.
 
+----
+
 ## Relevance to a Pizza Sales Store Manager:
 
 A pizza sales store manager can utilize this SQL project to extract valuable insights and conduct detailed data analysis, facilitating informed decision-making and efficient management of the store's operations. Here are a few points illustrating the importance and utility of this database for a store manager:
