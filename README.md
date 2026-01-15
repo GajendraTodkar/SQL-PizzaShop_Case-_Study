@@ -12,8 +12,6 @@ Below is a detailed description of each table and its columns:
 </p>
 
 
-   
-
 ----
 
 ## 📉 Relevance to a Pizza Sales Store Manager:
@@ -33,19 +31,19 @@ Data analysis can also support targeted marketing campaigns, like promotions on 
 
 ----
 
-## 📊 Key insights uncovered:
-**• Identified top-selling pizzas and revenue drivers**
-**• Analyzed peak order hours to improve operations**
-**• Calculated daily & cumulative revenue using window functions**
-**• Evaluated sales by pizza size and category**
+## 📊 Key insights uncovered:  
+**• Identified top-selling pizzas and revenue drivers**  
+**• Analyzed peak order hours to improve operations**  
+**• Calculated daily & cumulative revenue using window functions**  
+**• Evaluated sales by pizza size and category**  
 
 ----
 
-## 🛠️ Tech Stack:
-**• SQL Server**
-**• Joins, CTEs, GROUP BY**
-**• Window functions (OVER, PARTITION BY)**
-**• Date & time analysis**
+## 🛠️ Tech Stack:  
+**• SQL Server**  
+**• Joins, CTEs, GROUP BY**  
+**• Window functions (OVER, PARTITION BY)**   
+**• Date & time analysis**  
 
 ----
 
