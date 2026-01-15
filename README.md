@@ -5,7 +5,10 @@
 This SQL project revolves around a database schema designed to manage and analyze data for a pizza store. The database consists of four primary tables: order_details, pizzas, orders, and pizza_types. Each table plays a crucial role in storing different facets of the business operations, from individual orders to the types of pizzas offered. Below is a detailed description of each table and its columns:
 
 ## 🏗️ Data Architecture
-![Untitled (2)](https://github.com/user-attachments/assets/4a70dd4e-37de-4de5-a95f-2339b337fccf)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4a70dd4e-37de-4de5-a95f-2339b337fccf" alt="Data Architecture" />
+</p>
+
 
 ### 1. order_details:
    **- order_details_id:** A unique identifier for each entry in the order details.
