@@ -1,4 +1,4 @@
-# 🚀 SQL Project Case Study (Pizza Sales Analysis) 🍕🍕
+<h1 align="center"> # 🚀 SQL Project Case Study (Pizza Sales Analysis) 🍕🍕 </h1>
 
 ## 🎯 Project Overview
 
