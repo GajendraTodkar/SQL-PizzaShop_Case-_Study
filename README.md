@@ -6,6 +6,9 @@ This SQL project revolves around a database schema designed to manage and analyz
 The database consists of four primary tables: order_details, pizzas, orders, and pizza_types.  
 Below is a detailed description of each table and its columns:
 
+----
+
+
 ## 🏗️ Data Architecture
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4a70dd4e-37de-4de5-a95f-2339b337fccf" alt="Data Architecture" />
@@ -62,7 +65,7 @@ Everything is for Free!
 - **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing and interacting with databases.
 
 
-  ---
+----
 
   
 
